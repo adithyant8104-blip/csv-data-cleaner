@@ -19,5 +19,10 @@ exploratory analysis, and visualisation using Python.
 ## Outputs
 - Cleaned CSV file
 - Histogram plot
+  
+## Level 2: Revenue Analysis
+- Calculated total revenue using cleaned data
+- Analysed revenue by product category
+- Identified top-selling products
+- Visualised revenue distribution
 
-This project is part of my MSc Advanced Data Science & AI learning journey.
